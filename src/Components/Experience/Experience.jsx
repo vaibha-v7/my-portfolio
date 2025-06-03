@@ -42,7 +42,7 @@ const Experience = () => {
                 Sept 2023 - Present
               </p>
               </span> */}
-              <ul className="text-lg p-2 text-white">
+              <ul className="text-xl p-2 text-white font-bold">
                 <li>I have expertise in React and Tailwind, primarily used in front-end development</li>
                 <li>and have experience in building responsive and user-friendly web applications.</li>
               </ul>
@@ -58,7 +58,7 @@ const Experience = () => {
                 Sept 2023 - Present
               </p>
               </span> */}
-              <ul className="text-lg p-2 text-white">
+              <ul className="text-xl p-2 text-white font-bold">
                 <li>Backend has my interest and i have expertise in backend and front-end integration</li>
                 
               </ul>
@@ -71,7 +71,7 @@ const Experience = () => {
                 Sept 2023 - Present
               </p>
               </span> */}
-              <ul className="text-lg text-white p-2">
+              <ul className="text-xl text-white p-2 font-bold">
                 <li>Passionate about designing efficient and secure database systems that power modern applications.</li>
               </ul>
           </div>
