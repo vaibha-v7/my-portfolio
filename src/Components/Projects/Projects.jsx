@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div id="Projects" className="p-10 md:p-24 text-white ">
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
-      <div className="py-12 px-8 flex flex-wrap gap-5">
+      <div className="py-12 px-8 flex flex-wrap gap-5 items-center justify-center">
         <ProjectCard
           title="Blogging Website"
           main="this is a bloggin website created in next js and used some component library used some component library"
@@ -16,7 +16,7 @@ const Projects = () => {
         />
         <ProjectCard
           title="Netflix Clone"
-          main="this is a blogging website created this ijsdjf l in next js and used some component library used some component library"
+          main="nt library used some component library"
         />
       </div>
     </div>

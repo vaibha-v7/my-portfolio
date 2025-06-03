@@ -1,6 +1,6 @@
 import React from "react";
 import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from "react-icons/fa";
-import { SiRedis } from "react-icons/si";
+import { SiNotion } from "react-icons/si";
 import { FaGoogle } from "react-icons/fa";
 import { SiMongodb } from "react-icons/si";
 import { RiNetflixFill } from "react-icons/ri";
@@ -30,48 +30,50 @@ const Experience = () => {
             <SiMongodb color="#47A248" size={50} />
           </span>
           <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
-            <SiRedis color="#FF4438" size={50} />
+            <SiNotion color="#FF4438" size={50} />
           </span>
         </div>
         <div>
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
-            <FaGoogle color="#4285F4" size={50} />
+            {/* <FaGoogle color="#4285F4" size={50} />
             <span className="text-white">
               <h2 className="leading-tight">Software Engineer , Google</h2>
               <p className="text-sm leading-tight font-thin">
                 Sept 2023 - Present
               </p>
-              <ul className="text-sm p-2">
-                <li>- Work as software developer</li>
-                <li>- Senior SDE-developer</li>
+              </span> */}
+              <ul className="text-lg p-2 text-white">
+                <li>I have expertise in React and Tailwind, primarily used in front-end development</li>
+                <li>and have experience in building responsive and user-friendly web applications.</li>
               </ul>
-            </span>
+            
+
+
           </div>
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg  p-4 items-center">
-            <RiNetflixFill color="#E50914" size={50} />
+            {/* <RiNetflixFill color="#E50914" size={50} />
             <span className="text-white">
               <h2 className="leading-tight">Software Engineer, Google</h2>
               <p className="text-sm leading-tight font-thin">
                 Sept 2023 - Present
               </p>
-              <ul className="text-sm p-2">
-                <li>- Work as software developer.</li>
-                <li>- Senior SDE-developer</li>
+              </span> */}
+              <ul className="text-lg p-2 text-white">
+                <li>Backend has my interest and i have expertise in backend and front-end integration</li>
+                
               </ul>
-            </span>
           </div>
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg  p-4 items-center">
-            <FaAmazon color="#FF9900" size={50} />
+            {/* <FaAmazon color="#FF9900" size={50} />
             <span className="text-white">
               <h2 className="leading-tight">Software Engineer, Google</h2>
               <p className="text-sm leading-tight font-thin">
                 Sept 2023 - Present
               </p>
-              <ul className="text-sm p-2">
-                <li>- Work as software developer.</li>
-                <li>- Senior SDE-developer</li>
+              </span> */}
+              <ul className="text-lg text-white p-2">
+                <li>Passionate about designing efficient and secure database systems that power modern applications.</li>
               </ul>
-            </span>
           </div>
         </div>
       </div>
