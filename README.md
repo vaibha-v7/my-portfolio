@@ -13,32 +13,20 @@ Visit Portfolio:  https://portfolio-mq74zvpkf-vaibhav-patels-projects-c7ef59ce.v
 - ⚡ Responsive and modern UI
 - 🧠 About Me section
 - 💼 Project showcases with live links and source code
-- 📧 Contact form (Node.js/Express backend or 3rd-party email service)
-- 🌙 Dark/light theme toggle (optional)
 - 🚀 Optimized performance and accessibility
 
 ---
-
-## 🛠️ Tech Stack
-
 ### Frontend
 
 - React.js
 - Tailwind CSS
 - React Router
-- Framer Motion (optional)
+- Framer Motion 
 
-### Backend (if used)
 
-- Node.js
-- Express.js
-- Nodemailer / EmailJS (for contact form)
 
-### Database (if used)
 
-- MongoDB
 
----
 
-## 📁 Folder Structure
+
 
