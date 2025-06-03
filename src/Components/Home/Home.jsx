@@ -9,7 +9,7 @@ const Home = () => {
         <h1 className="text-xl md:text-6xl font-bold flex leading-normal tracking-tighter">
           <TextChange />
         </h1>
-        <p className="text-sm md:text-2xl tracking-tight mt-4 md:mt-8">
+        <p className="text-sm md:text-2xl  mt-4 md:mt-8">
           I'm a Full Stack Web Developer with a strong passion for backend development, particularly using the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy designing scalable APIs, managing databases, and building the logic that powers modern web applications.
         </p>
 
