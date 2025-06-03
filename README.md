@@ -4,7 +4,7 @@ Welcome to my **portfolio website** built to showcase my skills, projects, and e
 
 ## 🔗 Live Demo
 
-[Visit Portfolio]([https://your-portfolio-link.com](https://portfolio-mq74zvpkf-vaibhav-patels-projects-c7ef59ce.vercel.app/))
+[Visit Portfolio](https://your-portfolio-link.com](https://portfolio-mq74zvpkf-vaibhav-patels-projects-c7ef59ce.vercel.app/)
 
 ---
 
