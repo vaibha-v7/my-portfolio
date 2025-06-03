@@ -1,8 +1,44 @@
-# React + Vite
+# 🌐 Full Stack MERN Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **portfolio website** built to showcase my skills, projects, and experience as a Full Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 📌 Features
+
+- ⚡ Responsive and modern UI
+- 🧠 About Me section
+- 💼 Project showcases with live links and source code
+- 📧 Contact form (Node.js/Express backend or 3rd-party email service)
+- 🌙 Dark/light theme toggle (optional)
+- 🚀 Optimized performance and accessibility
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- React Router
+- Framer Motion (optional)
+
+### Backend (if used)
+
+- Node.js
+- Express.js
+- Nodemailer / EmailJS (for contact form)
+
+### Database (if used)
+
+- MongoDB
+
+---
+
+## 📁 Folder Structure
+
