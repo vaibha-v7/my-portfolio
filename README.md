@@ -1,6 +1,6 @@
 # 🌐 Full Stack MERN Developer Portfolio
 
-Welcome to my **portfolio website** built to showcase my skills, projects, and experience as a Full Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+Welcome to my **portfolio website** built to showcase my skills, projects, and experience as a Full Stack Web Developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 
 ## 🔗 Live Demo
 
